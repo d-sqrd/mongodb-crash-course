@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "project_1",
+    "name": "YouTube Clone",
+    "workspaceId": "workspace_1",
+    "section": [
+      { "name": "Section-2", "tasksId": ["task_1", "task_2", "task_3", "task_4"] }
+    ]
+  },
+  {
+    "_id": "project_2",
+    "name": "Java System Design",
+    "workspaceId": "workspace_1",
+    "section": [
+      { "name": "Section-1", "tasksId": ["task_1", "task_2", "task_3", "task_4"] }
+    ]
+  },
+  {
+    "_id": "project_3",
+    "name": "Javascript Tutorial",
+    "workspaceId": "workspace_1",
+    "section": [
+      { "name": "Section-3", "tasksId": ["task_1", "task_2", "task_3", "task_4"] }
+    ]
+  }
+]
